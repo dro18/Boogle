@@ -1,0 +1,107 @@
+#footer {
+    height: 40px; 
+    width: 100%;
+    background-color: #F0F0F0;
+    bottom: 0px;
+    position: absolute;
+    font-size: small;
+    border-top: 1px solid #E4E4E4;
+    font-family: arial,sans-serif;
+    
+    
+}
+#llinki {
+    display: inline-block;
+    padding-top: 10px;
+    padding-left: 21px;
+    
+}
+#llinki a{
+    margin-right: 25px;
+    color: #666;
+    
+}
+#dlinki{
+    position: relative;
+    float: right;
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 21px; 
+   
+}
+#dlinki a{
+    padding-right: 21px;
+    color: #666;
+}
+a:link{
+    text-decoration: none;
+    
+}
+a:hover{
+     text-decoration: underline;
+}
+img{
+     height: 92px;  
+     width: 272px;
+    position: absolute;
+	margin-top: 175px;
+    margin-left: 40% ;
+   
+     
+}
+input{
+     height: 38px;
+     width: 443px;
+     position:absolute; 
+    margin-top: 300px;
+    margin-left: 34%;
+}
+
+input:hover{
+     border-color: black;
+}
+
+#center { 
+
+    vertical-align: text-top;
+
+  
+}
+#head { 
+        position: absolute;
+        top: 22px;
+        right: 21px;    
+}
+#head a {
+        padding-right: 5px; 
+        font-size: small;
+        font-family: arial,sans-serif;
+        color: #666;
+}
+button {
+        height: 38px;
+        width: 125px;
+        background-color: #F0F0F0;
+        border: none; 
+        margin-top: 375px;
+    
+        
+       
+        
+}
+button:hover {
+        border-color: #666; 
+}
+#gumba {margin-left: 41%;
+        
+}
+#desngumb {
+        margin-left: 5px; 
+}
+p{    
+    margin-left: 44%;
+    margin-top: 30px;
+    font-family: arial,sans-serif;
+    font-size: small;
+    
+}
